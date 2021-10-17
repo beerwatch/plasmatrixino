@@ -1,2 +1,3 @@
 # plasmatrixino
-Experiments driving plasma matrix on Arduino
+
+Experiments driving GIPS-16-1 plasma matrix display on Arduino
